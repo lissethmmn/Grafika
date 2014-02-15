@@ -1,0 +1,7 @@
+header{background:#fff;padding:0;color:#fff;}
+header h1{color:#fff;font-size:18px;margin:0;padding:0}
+header .logo figure{height:52px;width:52px;z-index:100;position:absolute;}
+section{padding:0;margin-top:0;position:relative;}
+section article{border:1px solid #bbb;overflow:hidden;padding:0;margin:0;}
+section article figure{background-color:#fff;height:auto;width:100%;}
+section article h2{font-size:18px;color:#444}

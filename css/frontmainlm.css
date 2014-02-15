@@ -1,0 +1,6 @@
+header{background:#fff;padding:0;color:#fff;}
+header .logo figure{border:1px dashed #bbb;height:52px;width:52px;}
+section{padding:0;height:auto;width:100%;}
+section article{overflow:hidden;padding:0;}
+section article figure{height:auto;width:100%;}
+
